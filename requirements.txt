@@ -1,0 +1,6 @@
+dvc
+pandas
+scikit-learn
+pylint
+pytest
+pytest-cov
